@@ -3,7 +3,7 @@
 
 <h1>GROUPE ID : 80</h1>
 
-<title>Groupe members :</title>
+<h1>Groupe members :</h1>
 
 -Tébani Hiba 
 -Keteb Yousra 
